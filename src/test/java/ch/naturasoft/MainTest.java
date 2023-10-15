@@ -11,8 +11,4 @@ class MainTest {
         assertTrue(true);
     }
 
-    @Test
-    void testError() {
-        assertTrue(false);
-    }
 }
