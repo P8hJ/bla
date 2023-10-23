@@ -31,3 +31,12 @@ jobs:
     - name: Test
       run: mvn -B test --file pom.xml
 
+    - name: Pack
+      run: mvn -B package --file pom.xml
+
+    - name: Upload
+      uses: actions/upload-artifact@v3
+      with:
+        name: my-artifactUf
+        path: target/bla-1.0-SNAPSHOT.jar
+
