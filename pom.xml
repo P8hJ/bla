@@ -49,7 +49,7 @@
         <repository>
             <id>github</id>
             <name>GitHub P8hJ Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/P8hJ/REPOSITORY</url>
+            <url>https://maven.pkg.github.com/P8hJ/bla</url>
         </repository>
     </distributionManagement>
 
