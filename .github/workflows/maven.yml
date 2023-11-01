@@ -34,6 +34,4 @@ jobs:
     - name: Pack
       run: mvn -B package --file pom.xml
 
-    - name: Deploy
-      run: mvn -B deploy --file pom.xml
 
