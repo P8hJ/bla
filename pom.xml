@@ -7,6 +7,7 @@
     <groupId>ch.naturasoft</groupId>
     <artifactId>bla</artifactId>
     <version>1.0.0</version>
+    <!--Test-->
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
